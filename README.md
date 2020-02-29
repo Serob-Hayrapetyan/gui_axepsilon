@@ -1,4 +1,4 @@
-# gui_axepsilon
+# About AXEpsilon Graphical User Interface
 
 Please at first make sure you have already installed all the libraries or packages we used in our custom libraries and gui.py.
 Download this repository. Open git bash and type:
